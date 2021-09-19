@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Montaga&display=swap");
+body {
+  font-family: "Montaga", serif;
+  background-image: url("https://images.wallpaperscraft.com/image/single/wood_surface_texture_boards_118443_2560x1600.jpg");
+}
+.App {
+  text-align: center;
+  color: white;
+}
+.gener-list {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+  text-align: left;
+  padding: 1rem;
+}
+.Inside-div {
+  padding: 1rem;
+  border-radius: 1rem;
+  border-right: 1px solid white;
+  border-left: 0.5px solid white;
+  background-color: transparent;
+  border-width: 1.5px;
+  margin: 6px;
+}
+ul {
+  text-align: left;
+  list-style: none;
+}
+li {
+  padding: 10px;
+}
+hr {
+  border: 0.1rem solid White;
+}
+.btn-gener {
+  background-color: transparent;
+  border: 1px solid White;
+  margin: 2px 2px 12px 8px;
+  border-radius: 10px;
+  padding: 0.7rem;
+  color: white;
+}
